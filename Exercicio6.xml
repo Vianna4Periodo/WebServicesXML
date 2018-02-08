@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livro>
+    <autor></autor>
+    <editora></editora>
+    <numPaginas></numPaginas>
+    <capitulos>
+        <capitulo>
+            <titulo></titulo>
+            <numPaginas></numPaginas>
+        </capitulo>
+    </capitulos>
+</livro>

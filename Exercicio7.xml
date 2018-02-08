@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<pessoa>
+    <nome></nome>
+    <cpf></cpf>
+    <salario></salario>
+    <sexo></sexo>
+    <pedido>
+        <total></total>
+        <data></data>
+        <produtos>
+            <produto>
+                <id></id>
+                <descricao></descricao>
+                <precoUnitario></precoUnitario>
+            </produto>
+        </produtos>
+    </pedido>
+    <enderecos>
+        <endereco>
+            <pais></pais>
+            <estado></estado>
+            <cidade></cidade>
+            <cep></cep>
+            <rua></rua>
+        </endereco>
+    </enderecos>
+</pessoa>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmes>
+    <filme>
+        <titulo>O Judas anda à solta</titulo>
+        <quantidade>2</quantidade>
+        <tipo>VHS</tipo>
+    </filme>]
+    <filme>
+        <titulo>O regresso dos que não foram</titulo>
+        <quantidade>1</quantidade>
+        <tipo>DVD</tipo>
+    </filme>
+    <filme>
+        <titulo>E tudo a chuva molhou</titulo>
+        <quantidade>1</quantidade>
+        <tipo>DVD</tipo>
+    </filme>
+    <filme>
+        <titulo>Não é de gatos que o cão foge</titulo>
+        <quantidade>3</quantidade>
+        <tipo>VHS</tipo>
+    </filme>
+</filmes>
